@@ -14,21 +14,19 @@ namespace QueryString_2613827
             //Go to the confirmation page with the encoded URL
             Response.Redirect
                 (
-                "ProductConfirmQueryString.aspx" +
+                "ProductConfirmQueryStrings.aspx" +
                 "?ddlCategory=" + ddlCategory.SelectedValue +
                 "&ddlSupplier=" + ddlSupplier.SelectedValue +
                 "&strProduct=" + txtProduct.Text +
                 "&strDescription=" + txtDescription.Text +
                 "&strImage=" + txtImage.Text +
-                "&decPrice=" + txtPrice +
-                "&byNumberInStock=" + txtNumberInStock.Text +
-                "&byNumberOnOrder=" + txtNumberOnOrder.Text +
-                "&byReorderLevel=" + txtRecorderLevel.Text
+                "&decPrice=" + txtPrice.Text +
+                "&bytNumberInStock=" + txtNumberInStock.Text +
+                "&bytNumberOnOrder=" + txtNumberOnOrder.Text +
+                "&bytReorderLevel=" + txtRecorderLevel.Text
 
 
                 );
-
-                
         }
     }
 }

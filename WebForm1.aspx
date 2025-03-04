@@ -9,15 +9,14 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
-        </div>
+        
         <div>
             <asp:Label ID="Label1" runat="server" Text="Enter Product"></asp:Label>
-        </div>
+       
         <p>
             <asp:Label ID="Label2" runat="server" Text="Category"></asp:Label>
             <asp:DropDownList ID="ddlCategory" runat="server" Height="22px" Width="143px">
-                <asp:ListItem>Footwer-Women&#39;s</asp:ListItem>
+                <asp:ListItem>Footwer-Men&#39;s</asp:ListItem>
             </asp:DropDownList>
         </p>
         <p>
@@ -30,7 +29,7 @@
         </p>
         <p>
             <asp:Label ID="lblProduct" runat="server" Text="Product"></asp:Label>
-            <asp:TextBox ID="txtProduct" runat="server" Width="165px">like Flare Women&#39;s Shoeslas Barricade 17 Pop Art</asp:TextBox>
+            <asp:TextBox ID="txtProduct" runat="server" Width="165px">las Barricade 17 Pop Art</asp:TextBox>
         </p>
         <p>
             <asp:Label ID="txtDescription" runat="server" Text="Description"></asp:Label>
@@ -56,10 +55,12 @@
             <asp:TextBox ID="txtRecorderLevel" runat="server"></asp:TextBox>
         </p>
         <p>
-            &nbsp;</p>
-        <p>
-            <asp:Button ID="btnConfirm" runat="server" OnClick="btnConfirm_Click" Text="Confirm" />
+            <asp:Button ID="btnConfirm" runat="server" OnClick="btnConfirm_Click" Text="Confirm" style="height: 26px" />
         </p>
+        <p>
+            &nbsp;</p>
+              </div>
     </form>
+   
 </body>
 </html>

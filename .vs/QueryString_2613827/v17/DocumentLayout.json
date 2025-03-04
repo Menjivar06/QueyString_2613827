@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\brend\\OneDrive\\Escritorio\\Practica3\\ASP\\QueryString_2613827\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74CC54AC-DABC-4C0A-B296-C731E1E2ACDF}|QueryString_2613827.csproj|c:\\users\\brend\\onedrive\\escritorio\\practica3\\asp\\querystring_2613827\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74CC54AC-DABC-4C0A-B296-C731E1E2ACDF}|QueryString_2613827.csproj|C:\\Users\\brend\\OneDrive\\Escritorio\\Practica3\\ASP\\QueryString_2613827\\productconfirmquerystrings.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CC54AC-DABC-4C0A-B296-C731E1E2ACDF}|QueryString_2613827.csproj|solutionrelative:productconfirmquerystrings.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CC54AC-DABC-4C0A-B296-C731E1E2ACDF}|QueryString_2613827.csproj|C:\\Users\\brend\\OneDrive\\Escritorio\\Practica3\\ASP\\QueryString_2613827\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{74CC54AC-DABC-4C0A-B296-C731E1E2ACDF}|QueryString_2613827.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CC54AC-DABC-4C0A-B296-C731E1E2ACDF}|QueryString_2613827.csproj|C:\\Users\\brend\\OneDrive\\Escritorio\\Practica3\\ASP\\QueryString_2613827\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74CC54AC-DABC-4C0A-B296-C731E1E2ACDF}|QueryString_2613827.csproj|solutionrelative:webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74CC54AC-DABC-4C0A-B296-C731E1E2ACDF}|QueryString_2613827.csproj|c:\\users\\brend\\onedrive\\escritorio\\practica3\\asp\\querystring_2613827\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{74CC54AC-DABC-4C0A-B296-C731E1E2ACDF}|QueryString_2613827.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{74CC54AC-DABC-4C0A-B296-C731E1E2ACDF}|QueryString_2613827.csproj|c:\\users\\brend\\onedrive\\escritorio\\practica3\\asp\\querystring_2613827\\productconfirmquerystrings.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{74CC54AC-DABC-4C0A-B296-C731E1E2ACDF}|QueryString_2613827.csproj|solutionrelative:productconfirmquerystrings.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductConfirmQueryStrings.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\brend\\OneDrive\\Escritorio\\Practica3\\ASP\\QueryString_2613827\\ProductConfirmQueryStrings.aspx.cs",
+              "RelativeDocumentMoniker": "ProductConfirmQueryStrings.aspx.cs",
+              "ToolTip": "C:\\Users\\brend\\OneDrive\\Escritorio\\Practica3\\ASP\\QueryString_2613827\\ProductConfirmQueryStrings.aspx.cs",
+              "RelativeToolTip": "ProductConfirmQueryStrings.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:47:39.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductConfirmQueryStrings.aspx",
+              "DocumentMoniker": "C:\\Users\\brend\\OneDrive\\Escritorio\\Practica3\\ASP\\QueryString_2613827\\ProductConfirmQueryStrings.aspx",
+              "RelativeDocumentMoniker": "ProductConfirmQueryStrings.aspx",
+              "ToolTip": "C:\\Users\\brend\\OneDrive\\Escritorio\\Practica3\\ASP\\QueryString_2613827\\ProductConfirmQueryStrings.aspx",
+              "RelativeToolTip": "ProductConfirmQueryStrings.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-03T22:46:29.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WebForm1.aspx.cs",
               "DocumentMoniker": "C:\\Users\\brend\\OneDrive\\Escritorio\\Practica3\\ASP\\QueryString_2613827\\WebForm1.aspx.cs",
               "RelativeDocumentMoniker": "WebForm1.aspx.cs",
               "ToolTip": "C:\\Users\\brend\\OneDrive\\Escritorio\\Practica3\\ASP\\QueryString_2613827\\WebForm1.aspx.cs",
               "RelativeToolTip": "WebForm1.aspx.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA4wBwAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T19:10:47.099Z",
               "EditorCaption": ""
